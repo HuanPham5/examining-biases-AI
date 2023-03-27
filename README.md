@@ -1,5 +1,5 @@
-# Honors Thesis: Reduce Lending Biases in AI
-### Faculty Advisor: Professor Puerzer
+# Honors Thesis: Examining Biases in AI
+### Faculty Advisor: Professor Puerzer, Professor Lane
 ### Huan Pham
 ### Computer Science Department
 ### Hofstra University
